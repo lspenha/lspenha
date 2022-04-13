@@ -1,4 +1,4 @@
-## Olah eu sou o Lucas Penha, criadora de conteúdo de programação e tecnologia!
+## Olah eu sou o Lucas Penha, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/lspenha">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lspenha&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
